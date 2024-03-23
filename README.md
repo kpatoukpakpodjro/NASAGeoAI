@@ -15,3 +15,4 @@ critique dans les opérations d’intervention en cas de catastrophe et de surve
 # Le code principal se trouve dans AWS Cloud.
 
 
+![Capture d'écran 2024-03-23 081724](https://github.com/kpatoukpakpodjro/NASAGeoAI/assets/102617343/6fad9a02-3aad-452b-abcf-b4c6c0b9e557)
